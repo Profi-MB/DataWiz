@@ -1,6 +1,7 @@
 # DataWiz
 Regex app - text operations.
-Swing UI, replaces, deletes inserts new text on source text.
+Swing UI.
+Replaces, deletes inserts new text on source text.
 
 
 Do not hesitate if You want to contribute. 
